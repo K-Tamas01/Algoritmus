@@ -11,14 +11,26 @@ namespace thread
         public static int[] szamok;
         public static void array_sort(int start, int end)
         {
-            for(int i = start;i<end-1;i++)
-                for(int j = start+1; j < end; j++)
-                    if (szamok[i] < szamok[j])
-                    {
-                        szamok[i] += szamok[j];
-                        szamok[j] = szamok[i] - szamok[j];
-                        szamok[i] = szamok[i] - szamok[j];
-                    }
+            int i = start, j = end;
+			int kozep = szamok[(start+end)/2];
+			
+			while(start<=felso)
+			{
+				while(start<j && szamok[start]<kozep)
+					start++;
+				while(end>i && szamok[end]>kozep)
+					end--;
+				if(start<=felso)
+				{
+					szamok[start] += szamok[end];
+					szamok[end] = szamok[start] - szamok[end];
+					szamok[start] = szamok[start] - szamok[end];
+					++start;
+					--end;
+				}
+			}
+			if(start<j) array_sort(strat,j);
+			if(i<end) array_sort(i,end);
         }
         public static int[] expansion()
         {
