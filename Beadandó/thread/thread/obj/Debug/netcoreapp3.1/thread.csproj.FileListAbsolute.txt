@@ -1,0 +1,14 @@
+E:\Algoritmus\Beadandó\thread\thread\bin\Debug\netcoreapp3.1\thread.exe
+E:\Algoritmus\Beadandó\thread\thread\bin\Debug\netcoreapp3.1\thread.deps.json
+E:\Algoritmus\Beadandó\thread\thread\bin\Debug\netcoreapp3.1\thread.runtimeconfig.json
+E:\Algoritmus\Beadandó\thread\thread\bin\Debug\netcoreapp3.1\thread.runtimeconfig.dev.json
+E:\Algoritmus\Beadandó\thread\thread\bin\Debug\netcoreapp3.1\thread.dll
+E:\Algoritmus\Beadandó\thread\thread\bin\Debug\netcoreapp3.1\thread.pdb
+E:\Algoritmus\Beadandó\thread\thread\obj\Debug\netcoreapp3.1\thread.csproj.AssemblyReference.cache
+E:\Algoritmus\Beadandó\thread\thread\obj\Debug\netcoreapp3.1\thread.GeneratedMSBuildEditorConfig.editorconfig
+E:\Algoritmus\Beadandó\thread\thread\obj\Debug\netcoreapp3.1\thread.AssemblyInfoInputs.cache
+E:\Algoritmus\Beadandó\thread\thread\obj\Debug\netcoreapp3.1\thread.AssemblyInfo.cs
+E:\Algoritmus\Beadandó\thread\thread\obj\Debug\netcoreapp3.1\thread.csproj.CoreCompileInputs.cache
+E:\Algoritmus\Beadandó\thread\thread\obj\Debug\netcoreapp3.1\thread.dll
+E:\Algoritmus\Beadandó\thread\thread\obj\Debug\netcoreapp3.1\thread.pdb
+E:\Algoritmus\Beadandó\thread\thread\obj\Debug\netcoreapp3.1\thread.genruntimeconfig.cache
