@@ -67,6 +67,7 @@ namespace thread
                 }
                 SIZE = m * 10000;
             }
+            Console.WriteLine("DONE!");
             Console.ReadKey(true);
         }
     }
